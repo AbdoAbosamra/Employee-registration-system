@@ -1,4 +1,4 @@
-The Employee Registration System is a PHP-based web application designed to manage employee information within an organization. It provides functionalities for registering new employees, updating existing employee records, and viewing employee details.
+Employee Registration System is a PHP-based web application designed to manage employee information within an organization. It provides functionalities for registering new employees, updating existing employee records, and viewing employee details.
 
 ## Features
 
