@@ -92,7 +92,7 @@ $allRows = (is_array($allRows) && !empty($allRows)) ? $allRows : false;
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 
 
-    <title>Employee Details</title>
+    <title>Employee Management System</title>
     <style>
         @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
 
